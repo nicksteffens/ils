@@ -1,5 +1,49 @@
 {
   "index": {
-    
+    "title": "Independent Lifestyle Solutions",
+    "intro": {
+      "headline": "Lifestyles Redefined",
+      "copy": [ 
+        "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te.", 
+
+          "Ius facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis." 
+      ]
+    },
+    "cards": [
+      {
+        "icon": "stethoscope",
+        "copy": "We help healthcare professionals make recommendations"
+      },
+      {
+        "icon": "home",
+        "copy": "Is your family member ready to be relased from care?"
+      },
+      {
+        "icon": "plane",
+        "copy": "Are you an out-of-state child care taker?"
+      },
+      {
+        "icon": "iv",
+        "copy":"Lorem ipsum dolor sit amet, vis te ridens nostro propriae"
+      }
+    ],
+    "ctas": [
+      {
+        "headline": "Have any Questions?",
+        "copy": "We understand this can be a challenging process, so we compiled a list of the most frequently asked questions(FAQs) to aid clients.",
+        "link": {
+          "copy": "Learn More Now",
+          "href": "#"
+        }
+      },
+      {
+        "headline": "We&#39;re here for you",
+        "copy": "Sometimes a FAQ page isn’t enough. We’re here to answer any and all questions about the kind of service that will be best forcare receiver.",
+        "link": {
+          "copy": "Contact us",
+          "href": "contact.html"
+        }
+      }
+    ]
   }
 }

@@ -1,6 +1,26 @@
 doctype
-html
+html(lang="en")
   head
-    link(rel="stylesheet" href="/main.css")
+    //- meta
+    meta(charset="utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+
+    //- title
+    title= title
+
+    //- stylesheets
+    link(re;="stylesheet" href="bower_components/normalize-css/normalize.css")
+    link(rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css")
+    link(rel="stylesheet" href="stylesheets/main.css")
+
+    //- modernizer
+    script(type="text/javascript" src="bower_components/modernizr/modernizr.js")
+
   body
-    != yield
+    .container-fluid
+      != partial('_partials/_header')
+      .content!= yield
+      != partial('_partials/_footer.jade')
+
+    //- scripts
+    script(type="text/javascript" src="bower_components/jquery/dist/jquery.min.js")

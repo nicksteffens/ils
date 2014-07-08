@@ -1,0 +1,250 @@
+//================================================
+//=            Theme Variables / Mixins          =
+//================================================
+
+  // color variables
+@theme-blue: #455b70;
+@theme-light-blue: #9bb1c2;
+@theme-yellow: #a38b48;
+@theme-grey: #636466;
+@theme-white: #dcddde;
+
+  // font mixins
+.font-helvetica {
+  font-family: 'Helvetica Neue', Helvetica, Arial;
+}
+.font-futura {
+  font-family: 'Futura', Arial, Sans-Serif; 
+  }
+
+.font-bodoni {
+  font-family: 'Bodoni SvtyTwo OS ITC TT', Serif;
+  text-transform: uppercase;
+}
+
+.font-minion-pro {
+  font-family: 'Minion Pro', Serif; 
+}
+
+.fonts-navigation(@color: @theme-white; @size: 12px) {
+  color: @color;
+  .font-futura;
+  font-size: @size;
+  text-transform: uppercase;
+}
+
+.fonts-headline {
+  .font-bodoni;
+  font-size: 30px;
+  line-height: 36px;
+  color: @theme-blue;
+}
+
+.fonts-body(@color: @theme-grey; @size: 14px; @line-height: 22px;) {
+  color: @color;
+  .font-helvetica;
+  font-size: @size;
+  line-height: @line-height;
+}
+
+  // buttons
+
+.buttons-default {
+  background: @theme-light-blue;
+  border-radius: 0;
+  
+  color: @theme-white;
+  .font-bodoni;
+  font-size: 20px;
+
+  &:hover {
+    color: @theme-white;
+  }
+}
+
+
+
+
+//-----  End of Theme Variables / Mixins  ------
+
+//======================================
+//=            Theme Stylings          =
+//======================================
+
+/*==========  defaults  ==========*/
+
+body {
+  background: @theme-white;
+  .fonts-body();
+}
+
+.container-fluid {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.btn-theme {
+  .buttons-default;
+}
+
+
+/*==========  body content  ==========*/
+
+
+// intro's
+
+.intro {
+  padding: 22px 0 44px;
+
+  .headline {
+    border-right: 1px solid @theme-yellow;
+
+    h2 {
+      .fonts-headline;
+    }
+  }
+
+  .copy {
+    p {
+      padding: 0 45px 0 30px;
+    }
+  }
+
+}
+
+.cards {
+
+  .card {
+    height: 214px;
+    padding: 20px;
+    background: @theme-blue;
+
+    color: @theme-white;
+    .font-minion-pro;
+    font-size: 14px;
+    line-height: 24px;
+
+    .icon {
+      margin-bottom: 24px;
+    }
+  }
+
+}
+
+.ctas {
+  margin-top: 50px;
+  
+  .cta {
+
+    .headline {
+      
+
+      h3 {
+        padding-bottom: 10px;
+        .fonts-headline;
+        border-bottom: 1px solid @theme-yellow;
+        
+      }
+    }
+
+    .copy {
+      .fonts-body();
+      padding: 20px 28px;
+    }
+
+  }
+
+}
+
+
+/*==========  header  ==========*/
+
+#header {
+  display: block;
+  position: relative;
+  padding: 37px 0 0;
+  background: @theme-blue;
+
+  // logo container
+  .logo-container {
+    display: block;
+    box-sizing: border-box;
+    padding-left: 15px;
+    border-bottom: 2px solid @theme-yellow;
+
+    .logo {
+      display: block;
+      position: relative;
+      top: 6px;
+
+      border: none;
+    }
+  }
+
+  // navigation
+  .navigation {
+    a {
+      padding: 16px 0 19px;
+      background: none;
+
+      .fonts-navigation();
+      text-align: center;
+      text-decoration: none;
+      
+      &:hover {
+        background: @theme-yellow;
+      }
+    }
+  }
+
+}
+
+
+/*==========  footer  ==========*/
+
+#footer {
+  display: block;
+  position: relative;
+  margin-top: 60px;
+  padding: 10px 0 28px;
+  background: @theme-blue;
+
+  .container {
+
+    border-bottom: 2px solid @theme-yellow;
+
+    .copyright {
+      display: inline-block;
+      position: relative;
+      top: 10px;
+      padding: 0 4px;
+      background: @theme-blue;
+      color: @theme-white;
+      .font-futura;
+      font-size: 11px;
+      text-transform: uppercase;
+
+    }
+  }
+
+}
+
+
+
+
+//-----  End of Theme Stylings  ------
+
+
+/*=====================================
+=            media queries            =
+=====================================*/
+
+@media (max-width: 512px) {
+  .container-fluid {
+    max-width: 100%;
+  }
+}
+
+/*-----  End of media queries  ------*/
+
+

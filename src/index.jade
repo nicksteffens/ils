@@ -1,2 +1,9 @@
-h1 Welcome to Harp.
-h3 This is yours to own. Enjoy.
+// index page
+
+!= partial('_partials/_intro', intro)
+!= partial('_partials/_cards', cards)
+
+.row.ctas
+  each cta in ctas
+    .col-sm-6.container
+      != partial('_partials/_cta', cta)
