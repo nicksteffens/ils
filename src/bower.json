@@ -1,0 +1,17 @@
+{
+  "name": "independent-lifestyle-solutions",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nicksteffens/ils",
+  "authors": [
+    "Nick Steffens <nsteffens@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "CC",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "modernizr": "~2.8.3"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "independent-lifestyle-solutions",
+  "version": "0.0.0",
+  "description": "harp static site",
+  "main": "src/",
+  "dependencies": {
+    "bower": "^1.3.7",
+    "harp": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicksteffens/ils.git"
+  },
+  "keywords": [
+    "harp"
+  ],
+  "author": "Nick Steffens <nsteffens@gmail.com>",
+  "license": "CC",
+  "bugs": {
+    "url": "https://github.com/nicksteffens/ils/issues"
+  },
+  "homepage": "https://github.com/nicksteffens/ils"
+}
