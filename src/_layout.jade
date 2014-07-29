@@ -15,11 +15,14 @@ html(lang="en")
 
     //- modernizer
     script(type="text/javascript" src="js/modernizr.js")
+  - var pagetitle = ''
+  if page != undefined
+    - pagetitle = page
 
-  body
+  body(class="#{pagetitle}")
     .container-fluid
       != partial('_partials/_header')
-      .content!= yield
+      #content!= yield
       != partial('_partials/_footer.jade')
 
     //- scripts

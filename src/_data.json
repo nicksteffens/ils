@@ -45,5 +45,51 @@
         }
       }
     ]
+  },
+
+  "services": {
+    "title": "Independent Lifestyle Solutions : Services",
+    "page": "services",
+    "intro": {
+      "headline": "Our Services",
+      "copy": [
+        "Nam nec pretium diam. Etiam tempus nisl eu vulputate ornare. Maecenas velit sapien, interdum ac odio vel, suscipit imperdiet tellus. Sed posuere, ipsum pellentesque suscipit lacinia, nisi lacus posuere enim, id rhoncus libero dolor at massa.",
+        "Sed sodales eu urna sit amet molestie. Suspendisse gravida dictum eros ut congue. Sed in turpis id tellus ornare sodales."
+      ]
+    },
+    "cards": [
+      {
+        "icon": "placeholder",
+        "copy": "Card Text"
+      },
+      {
+        "icon": "services-wheelchair",
+        "copy": "Long Term Care"
+      },
+      {
+        "icon": "services-home",
+        "copy": "Exterior Maintenance"
+      },
+      {
+        "icon": "services-briefcase",
+        "copy": "Consulting Services"
+      }
+    ],
+    "tabs": [
+      {
+        "title": "Vision Impairment",
+        "copy": [
+          "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
+          "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
+        ]
+      },
+      {
+        "title": "Next Service",
+        "copy": [
+          "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
+          "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
+        ]
+      }
+    ]
   }
 }

@@ -74,13 +74,14 @@
 /*==========  defaults  ==========*/
 
 body {
-  background: @theme-white;
+  background: @theme-blue;
   .fonts-body();
 }
 
 .container-fluid {
   max-width: 1024px;
   margin: 0 auto;
+  background: @theme-white;
 }
 
 .btn-theme {
@@ -89,6 +90,7 @@ body {
 
 
 /*==========  body content  ==========*/
+
 
 
 // intro's
@@ -127,12 +129,25 @@ body {
     .icon {
       margin-bottom: 24px;
     }
-  }
+  
+    // services page
+    .services & {
+      font-size: 18px;
+      text-transform: uppercase;
 
+      .copy {
+        display: block;
+        width: 164px;
+        margin: 0 auto;
+      }
+    }
+
+  }
+  
 }
 
 .ctas {
-  margin-top: 50px;
+  margin: 50px 0 60px;
   
   .cta {
 
@@ -205,7 +220,7 @@ body {
 #footer {
   display: block;
   position: relative;
-  margin-top: 60px;
+  // margin-top: 60px;
   padding: 10px 0 28px;
   background: @theme-blue;
 
