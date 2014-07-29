@@ -1,0 +1,9 @@
+mixin tab(tab)
+ h2= tab.title
+ each para in tab.copy
+  p= para
+
+
+.tabs
+  each tab in tabs
+    +tab(tab)
