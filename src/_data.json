@@ -3,10 +3,10 @@
     "title": "Independent Lifestyle Solutions",
     "intro": {
       "headline": "Lifestyles Redefined",
-      "copy": [ 
-        "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te.", 
+      "copy": [
+        "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te.",
 
-          "Ius facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis." 
+          "Ius facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis."
       ]
     },
     "cards": [
@@ -89,6 +89,32 @@
           "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
           "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
         ]
+      }
+    ]
+  },
+
+  "faqs": {
+    "title": "ILS FAQs",
+    "questions": [
+      {
+        "headline": "What if I can’t see shit?",
+        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare."
+      },
+      {
+        "headline": "How can ILS improve my daily routine?",
+        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare."
+      },
+      {
+        "headline": "What is ILS liabile for in the case of accidents?",
+        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare. Cum populo dicunt delectus te. Lus facer accommodare."
+      },
+      {
+        "headline": "What is the average timeline of a renovation?",
+        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare. Cum populo dicunt delectus te. Lus facer accommodare."
+      },
+      {
+        "headline": "Do you paint my walls?",
+        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. "
       }
     ]
   }
