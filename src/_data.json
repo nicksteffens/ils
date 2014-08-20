@@ -38,7 +38,7 @@
       },
       {
         "headline": "We&#39;re here for you",
-        "copy": "Sometimes a FAQ page isn’t enough. We’re here to answer any and all questions about the kind of service that will be best forcare receiver.",
+        "copy": "Sometimes a FAQ page isn't enough. We're here to answer any and all questions about the kind of service that will be best forcare receiver.",
         "link": {
           "copy": "Contact us",
           "href": "contact.html"
@@ -97,24 +97,87 @@
     "title": "ILS FAQs",
     "questions": [
       {
-        "headline": "What if I can’t see shit?",
-        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare."
+        "headline": "What is CAPS?",
+        "copy": "Certified Aging-in-Place Specialist. CAPS is a certification designated by the National Association of Home Builders (NAHB) Remodelors (TM) and the AARP to identify professional experts who specialize in understanding and catering to the needs of the aging 50+ population."
       },
       {
-        "headline": "How can ILS improve my daily routine?",
-        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare."
+        "headline": "What is Aging-In-Place?",
+        "copy": "Aging-In-Place is the ideal concept of aging. Centered around quality of life and independence, it's your ability to continue living in the home of your choice. It's the idea that with proper planning and professional expertise “aging” no longer has to mean sacrificing your lifestyle."
       },
       {
-        "headline": "What is ILS liabile for in the case of accidents?",
-        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare. Cum populo dicunt delectus te. Lus facer accommodare."
+        "headline": "What's the cost of aging-in-place?",
+        "copy": "The advantage of aging-in-place isn't only the ability to remain in your own home, but the financial savings as well. In most cases aging-in-place is not only a more desirable solution for Seniors but also the most financially sound investment at lower cost to families. Home renovations and improvements, even with in-home services, are usually a fraction of the price compared to assisted living and private nursing home alternatives. Don't believe us? Calculate long-term-care costs in your area (<a href='http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC'>http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC</a>) and see how much you can save today by aging-in-place with Independent Lifestyle Solutions. "
       },
       {
-        "headline": "What is the average timeline of a renovation?",
-        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare. Cum populo dicunt delectus te. Lus facer accommodare."
+        "headline": "Who should be at the In-Home Consultation?",
+        "copy": "In order for us to fully understand your needs and provide accurate recommendations it's critical that everyone involved in the decision making is present during the In-Home Consultation. This can include medical professionals, owners of the home, concerned loved ones, spouses etc. That being said, we understand it's not always possible for all parties to physically be there during the In-Home Consultation and we do our best to coordinate with and accommodate out of state family members, medical professionals, and any other decision making parties. "
       },
       {
-        "headline": "Do you paint my walls?",
-        "copy": "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. "
+        "headline": "Who decides what is needed?",
+        "copy": "After the In-Home Consultation and learning the needs and concerns of all parties involved we'll provide you with our expert recommendations, solutions customized to fit your specific independent lifestyle.<br/></br>The conversation doesn't end there though, together we decide what solutions are going to work best, allowing you to live comfortably and independently, with the highest quality of life. Additionally, you may decide you also want additional services and future renovations."
+      },
+      {
+        "headline": "What if I need help now?",
+        "copy": "We understand that many of our clients have extremely urgent needs. If an In-Home Consultation is needed as the result of a hospitalization or nursing home release we have the ability to work quickly and fast track necessary home improvements and renovations. We can also help you prioritize your needs into multiple phases if you feel you don't need them right away."
+      },
+      {
+        "headline": "Does Independent Lifestyle Solutions work with only Seniors?",
+        "copy": "Nope! Although we specialize in the 50+ population our expertise is in helping clients struggling with their current independence. Whether it's because of an accident, a medical condition, or a recent hospitalization, we provide solutions for your ideal independent lifestyle."
+      },
+      {
+        "headline": "What if I can't afford the improvements that are needed?",
+        "copy": "Nope! Although we specialize in the 50+ population our expertise is in helping clients struggling with their current independence. Whether it's because of an accident, a medical condition, or a recent hospitalization, we provide solutions for your ideal independent lifestyle."
+      }
+    ]
+  },
+
+  "about": {
+    "title": "ILS About",
+    "page": "about",
+    "intro": {
+      "headline": "About US",
+      "copy": [
+        "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te.",
+
+        "Ius facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis. "
+      ]
+    },
+    "tabs": [
+      {
+        "title": "About CAPS",
+
+        "copy": [
+          "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis.",
+
+          "Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis."
+        ]
+      },
+      {
+        "title": "Helpful Links",
+        "links": true,
+        "copy": [
+          {
+            "link": {
+                "href": "http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC",
+                "copy": "Long-Term Care Calculator "
+              },
+            "copy": "sed maluisset voluptatum ad, aeque nullam in mei. Id pro copiosae partiendo, vim no probo illum. Cum populo dicunt delectus te. Lus facer accommodare theophrastus ne."
+          },
+          {
+            "link": {
+              "href": "http://www.aarp.org/home-family/caregiving/?intcmp=HP-LN-CRGVNG-CRC",
+              "copy": "Caregiving Resource Center"
+            },
+            "copy":"Ex purto vocent eloquentiam pri, et sit noster feugait euripidis. Lorem ipsum dolor sit amet, vis te ridens nostro propriae, sed maluisset voluptatum ad, aeque nullam in mei. "
+          },
+          {
+            "link": {
+              "href": "http://www.aoa.gov/aoa_programs/hcltc/caregiver/index.aspx",
+              "copy":"National Family Caregiver Support Program"
+              },
+            "copy": "Cum populo dicunt delectus te. Lus facer accommodare theophrastus ne. Ut eirmod dolores inciderint eam. Ex purto vocent eloquentiam pri, et sit noster feugait euripidis. "
+          }
+        ]
       }
     ]
   }

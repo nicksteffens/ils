@@ -1,7 +1,19 @@
 mixin tab(tab)
- h2= tab.title
- each para in tab.copy
-  p= para
+  .row.tab(data-tab="#{tab.title}")
+    .col-sm-3.headline
+       h2!= tab.title
+
+    .col-sm-9.copy
+      if tab.links
+        +tab_w_link(tab)
+      else
+        each para in tab.copy
+            p!= para
+
+mixin tab_w_link(tab)
+  each para in tab.copy
+    a(href="#{para.link.href}")!= para.link.copy
+    p!= para.copy
 
 
 .tabs

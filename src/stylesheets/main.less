@@ -88,31 +88,49 @@ body {
   .buttons-default;
 }
 
+a {
+  color: inherit;
+  text-decoration: underline;
+  &:hover {
+    color: @theme-blue;
+  }
+}
+
 
 /*==========  body content  ==========*/
 
 
 
-// intro's
+// intro's & tabs
 
-.intro {
+.intro, .tabs {
   padding: 22px 0 44px;
 
+  .tab {
+    margin-bottom: 42px;
+  }
+
+
   .headline {
-    border-right: 1px solid @theme-yellow;
 
     h2 {
       .fonts-headline;
+      text-align: center;
+      width: 50%;
+      margin: 0 auto;
+      padding: 20px 0 0;
     }
   }
 
   .copy {
-    p {
+    border-left: 2px solid @theme-yellow;
+    p, a {
       padding: 0 45px 0 30px;
     }
   }
 
 }
+
 
 .cards {
 
