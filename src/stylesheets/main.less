@@ -133,18 +133,22 @@ a {
 
 .cards {
   .card {
+    display: block;
     position: relative;
     cursor: pointer;
 
-    &.active {
+    &.active,
+    &.home:hover {
       .front {
         display: none;
       }
 
       .reverse {
         display: block;
+
       }
     }
+
   }
 
   .front {
@@ -179,15 +183,17 @@ a {
   .reverse {
     display: none;
     position: absolute;
-    top: 0; left: 0;
+    top: 0; left: 15px;
+    box-sizing: border-box;
     height: 214px;
+    max-width: 100%;
     padding: 20px;
     background: @theme-yellow;
-    -webkit-transform: rotateY(-180deg);
-       -moz-transform: rotateY(-180deg);
-        -ms-transform: rotateY(-180deg);
-         -o-transform: rotateY(-180deg);
-            transform: rotateY(-180deg);
+    // -webkit-transform: rotateY(-180deg);
+    //    -moz-transform: rotateY(-180deg);
+    //     -ms-transform: rotateY(-180deg);
+    //      -o-transform: rotateY(-180deg);
+    //         transform: rotateY(-180deg);
 
     h2 {
       display: block;
@@ -205,6 +211,11 @@ a {
       .font-minion-pro;
       font-size: 14px;
     }
+  }
+
+  .home .reverse {
+    position: relative;
+    top: auto; left: auto;
   }
 
 }

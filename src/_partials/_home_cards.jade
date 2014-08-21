@@ -14,14 +14,9 @@ mixin card(obj, idx, num)
     - var col = 12/num
     - var colClass = "col-sm-" + col
 
-  if (obj.active)
-    - var active = "active"
-
-  else
-    - var active = ""
 
 
-  a(href="##{obj.tabgroup}" class="#{colClass} text-center card #{active}" id="#{obj.tabgroup}")
+  a(href="#{obj.href}" class="#{colClass} text-center card home")
     .front(data-card-index=idx+1)
       .row
         .col-xs-12
@@ -29,17 +24,16 @@ mixin card(obj, idx, num)
 
       .row
         .col-xs-12.text-center
-          h2!= obj.copy
+          p!= obj.copy
 
-    if obj.reverse
-      .reverse
+    .reverse
+      .row
+        .col-xs-12.text-center
+          h2!= obj.reverse.headline
+      each para in obj.reverse.copy
         .row
           .col-xs-12.text-center
-            h2!= obj.reverse.headline
-        each para in obj.reverse.copy
-          .row
-            .col-xs-12.text-center
-              p!= para
+            p!= para
 
 
 

@@ -22,7 +22,7 @@ App = {
 
 
   cardListener: ->
-    $('a.card').on(
+    $('a.card:not(.home)').on(
         click: (e)->
           tab = $(this).attr('id')
           $('a.card').removeClass('active')
@@ -30,6 +30,11 @@ App = {
 
           if tab != undefined
             App.toggleTab(tab)
+      )
+
+    $('a.card.home').on(
+      hover: (e)->
+        console.log 'hover'
       )
 
   getHash: ()->

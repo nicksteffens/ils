@@ -11,20 +11,44 @@
     },
     "cards": [
       {
-        "icon": "stethoscope",
-        "copy": "We help healthcare professionals make recommendations"
+        "icon": "stethascope",
+        "copy": "I'm a health care professional who needs to make a recommendation",
+        "href": "process.html",
+        "reverse": {
+          "headline": "Health Care Professional",
+          "copy": [
+            "In turpis ante, accumsan in semper sit amet, gravida ac mi. Donec tincidunt consectetur aliquam."
+          ]
+        }
       },
       {
-        "icon": "home",
-        "copy": "Is your family member ready to be relased from care?"
+        "icon": "heartrate",
+        "copy": "My parents are getting older and I'm concerned about them living alone",
+        "href": "#",
+        "reverse": {
+          "headline": "Concerned Loved One",
+          "copy": [
+            "In turpis ante, accumsan in semper sit amet, gravida ac mi. Donec tincidunt consectetur aliquam."
+          ]
+        }
       },
       {
-        "icon": "plane",
-        "copy": "Are you an out-of-state child care taker?"
+        "icon": "houserent",
+        "copy": "I love my home and I want to ensure my future independence",
+        "href": "services.html#future-planning",
+        "reverse": {
+          "headline": "Future Planning",
+          "copy": ["In turpis ante, accumsan in semper sit amet, gravida ac mi. Donec tincidunt consectetur aliquam."]
+        }
       },
       {
-        "icon": "iv",
-        "copy":"Lorem ipsum dolor sit amet, vis te ridens nostro propriae"
+        "icon": "magnifying-glass",
+        "copy": "I need a Certified Aging-in-Place Specialist",
+        "href": "services.html#expert-consulting",
+        "reverse": {
+          "headline": "Consulting Services",
+          "copy": ["In turpis ante, accumsan in semper sit amet, gravida ac mi. Donec tincidunt consectetur aliquam."]
+        }
       }
     ],
     "ctas": [
