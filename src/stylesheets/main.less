@@ -132,8 +132,23 @@ a {
 
 
 .cards {
-
   .card {
+    position: relative;
+    cursor: pointer;
+
+    &.active {
+      .front {
+        display: none;
+      }
+
+      .reverse {
+        display: block;
+      }
+    }
+  }
+
+  .front {
+    display: block;
     height: 214px;
     padding: 20px;
     background: @theme-blue;
@@ -144,7 +159,7 @@ a {
     line-height: 24px;
 
     .icon {
-      margin-bottom: 24px;
+      // margin-bottom: 24px;
     }
 
     // services page
@@ -152,13 +167,44 @@ a {
       font-size: 18px;
       text-transform: uppercase;
 
-      .copy {
-        display: block;
-        width: 164px;
-        margin: 0 auto;
+      h2 {
+        font-size: 18px;
+        margin: 0;
       }
+
     }
 
+  }
+
+  .reverse {
+    display: none;
+    position: absolute;
+    top: 0; left: 0;
+    height: 214px;
+    padding: 20px;
+    background: @theme-yellow;
+    -webkit-transform: rotateY(-180deg);
+       -moz-transform: rotateY(-180deg);
+        -ms-transform: rotateY(-180deg);
+         -o-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+
+    h2 {
+      display: block;
+      margin: 0 0 15px;
+      padding: 0 0 10px;
+      border-bottom: 2px solid @theme-white;
+      .font-bodoni;
+      color: @theme-white;
+      font-size: 18px;
+
+    }
+
+    p {
+      color: @theme-white;
+      .font-minion-pro;
+      font-size: 14px;
+    }
   }
 
 }

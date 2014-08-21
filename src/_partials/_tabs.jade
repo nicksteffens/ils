@@ -1,5 +1,15 @@
 mixin tab(tab)
-  .row.tab(data-tab="#{tab.title}")
+  if tab.tabgroup
+    - var tabgroup = tab.tabgroup
+  else
+    - var tabgroup = ""
+
+  if tab.hidden
+    - var hidden = "hidden"
+  else
+    - var hidden = ""
+
+  .row.tab(data-tabgroup="#{tabgroup}" class="#{hidden}")
     .col-sm-3.headline
        h2!= tab.title
 

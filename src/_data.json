@@ -60,7 +60,7 @@
     "cards": [
       {
         "icon": "wheelchair",
-        "tab-group": "immediate-needs",
+        "tabgroup": "immediate-needs",
         "copy": "Immediate Needs",
         "active": true,
         "reverse": {
@@ -72,7 +72,7 @@
       },
       {
         "icon": "calendar",
-        "tab-group": "long-term-services",
+        "tabgroup": "long-term-services",
         "copy": "Long-Term Services",
         "reverse": {
           "headline": "Long-Term Services",
@@ -83,7 +83,7 @@
       },
       {
         "icon": "house",
-        "tab-group": "future-planning",
+        "tabgroup": "future-planning",
         "copy": "Future Planning",
         "reverse": {
           "headline": "Future Planning",
@@ -93,25 +93,71 @@
         }
       },
       {
-        "icon": "services-briefcase",
-        "copy": "Consulting Services"
+        "icon": "briefcase",
+        "tabgroup": "expert-consulting",
+        "copy": "Expert Consulting",
+        "reverse": {
+          "headline": "Expert Consulting",
+          "copy": [
+            "We help medical professionals and businesses provide their patients and aging-in-place customers with solutions designed to fit their specific needs"
+          ]
+        }
       }
     ],
     "tabs": [
       {
-        "title": "Vision Impairment",
+        "title": "Vision & Hearing Impairments",
+        "tabgroup": "immediate-needs",
         "copy": [
           "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
           "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
         ]
       },
       {
-        "title": "Next Service",
+        "title": "Mobility",
+        "tabgroup": "immediate-needs",
+        "copy": [
+          "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
+          "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
+        ]
+      },
+      {
+        "title": "Accessibility",
+        "tabgroup": "long-term-services",
+        "hidden": true,
+        "copy": [
+          "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
+          "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
+        ]
+      },
+      {
+        "title": "Bathrooms",
+        "tabgroup": "future-planning",
+        "hidden": true,
+        "copy": [
+          "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
+          "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
+        ]
+      },
+      {
+        "title": "Kitchen",
+        "tabgroup": "future-planning",
+        "hidden": true,
+        "copy": [
+          "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
+          "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
+        ]
+      },
+      {
+        "title": "Preventative",
+        "tabgroup": "expert-consulting",
+        "hidden": true,
         "copy": [
           "Lorem ipsum Consequat Ut in dolor velit deserunt in do anim voluptate labore ut est labore nisi amet nisi dolor ut consectetur tempor aute dolor veniam proident eu incididunt nisi nisi minim aute aliqua esse ullamco deserunt esse officia.",
           "Lorem ipsum Ex tempor mollit quis Ut Duis ullamco sit exercitation elit est et qui irure labore deserunt Duis laboris in eu occaecat do."
         ]
       }
+
     ]
   },
 

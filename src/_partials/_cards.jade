@@ -10,20 +10,36 @@ mixin card(obj, idx, num)
     - var col = Math.round(12/num)
     - var colClass = "col-sm-" + col
 
-  else 
+  else
     - var col = 12/num
     - var colClass = "col-sm-" + col
 
+  if (obj.active)
+    - var active = "active"
 
-  div(class="#{colClass} text-center")
-    .card(data-card-index=idx+1)
-      .row 
+  else
+    - var active = ""
+
+
+  a(href="##{obj.tabgroup}" class="#{colClass} text-center card #{active}" id="#{obj.tabgroup}")
+    .front(data-card-index=idx+1)
+      .row
         .col-xs-12
           img(class="icon #{obj.icon}" src="images/icon-#{obj.icon}.png" alt=obj.icon)
 
       .row
-        .col-xs-12.copy
-          p!= obj.copy
+        .col-xs-12.text-center
+          h2!= obj.copy
+
+    .reverse
+      .row
+        .col-xs-12.text-center
+          h2!= obj.reverse.headline
+      each para in obj.reverse.copy
+        .row
+          .col-xs-12.text-center
+            p!= para
+
 
 
 .row.cards
