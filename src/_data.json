@@ -51,7 +51,7 @@
     "title": "Independent Lifestyle Solutions : Services",
     "page": "services",
     "intro": {
-      "headline": "Our Services",
+      "headline": "Solutions & Services",
       "copy": [
         "Nam nec pretium diam. Etiam tempus nisl eu vulputate ornare. Maecenas velit sapien, interdum ac odio vel, suscipit imperdiet tellus. Sed posuere, ipsum pellentesque suscipit lacinia, nisi lacus posuere enim, id rhoncus libero dolor at massa.",
         "Sed sodales eu urna sit amet molestie. Suspendisse gravida dictum eros ut congue. Sed in turpis id tellus ornare sodales."
@@ -59,16 +59,38 @@
     },
     "cards": [
       {
-        "icon": "placeholder",
-        "copy": "Card Text"
+        "icon": "wheelchair",
+        "tab-group": "immediate-needs",
+        "copy": "Immediate Needs",
+        "active": true,
+        "reverse": {
+          "headline": "Immediate Needs",
+          "copy": [
+            "Big or small, these are current challenges you're facing that affect your life on a day to day basis."
+          ]
+        }
       },
       {
-        "icon": "services-wheelchair",
-        "copy": "Long Term Care"
+        "icon": "calendar",
+        "tab-group": "long-term-services",
+        "copy": "Long-Term Services",
+        "reverse": {
+          "headline": "Long-Term Services",
+          "copy": [
+            "Continued independence requires lasting solutions and consistent support to enjoy the life you want to live"
+          ]
+        }
       },
       {
-        "icon": "services-home",
-        "copy": "Exterior Maintenance"
+        "icon": "house",
+        "tab-group": "future-planning",
+        "copy": "Future Planning",
+        "reverse": {
+          "headline": "Future Planning",
+          "copy": [
+            "The easiest way to continue your current lifestyle is to plan to ensure your future one"
+          ]
+        }
       },
       {
         "icon": "services-briefcase",
@@ -180,5 +202,9 @@
         ]
       }
     ]
+  },
+
+  "process": {
+
   }
 }
