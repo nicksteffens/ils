@@ -5,17 +5,27 @@
       .col-xs-12
         a(href="/")
           img.logo(src="images/logo.png" alt="Independent Lifestyle Solutions")
-    
+
     .row
       .col-sm-8.col-sm-offset-4.navigation
         .row
           a.col-sm-2.col-sm-offset-2(href="/") home
-          a.col-sm-2(href="process.html") process
+          a.col-sm-2.dropdown(href="process.html") process
+            ul
+              li
+                a(href="procress.html#immediate-needs") Immediate Needs
+              li
+                a(href="process.html#long-term-services") Long-Term Services
+              li
+                a(href="process.html#future-planning") Future Planning
+              li
+                a(href="process.html#expert-consulting") Expert Consulting
+
           a.col-sm-2(href="services.html") services
           a.col-sm-2(href="about.html") about
           a.col-sm-2(href="contact.html") contact
         //- .col-sm-2
           //- li: a(href="gallery.html") gallery
-              
+
 
 
