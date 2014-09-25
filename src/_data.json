@@ -250,5 +250,24 @@
       "copy": [
       ]
     }
+  },
+  "helpful-links": {
+    "title": "Independent Lifestyle Solutions : Helpful Links",
+    "page": "helpful",
+    "intro": {
+      "headline": "Helpful Links",
+      "copy": [
+      ]
+    },
+    "tabs": [
+      {
+        "title": "links",
+        "copy": [
+          "<a href=\"http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC\" target=\"_blank\">Long-Term Care Calculator</a>",
+          "<a href=\"http://www.aarp.org/home-family/caregiving/?intcmp=HP-LN-CRGVNG-CRC\" target=\"_blank\">Caregiving Resource Center</a>",
+          "<a href=\"http://www.aoa.gov/aoa_programs/hcltc/caregiver/index.aspx\"  target=\"_blank\">National Family Caregiver Support Program</a>"
+        ]
+      }
+    ]
   }
 }
