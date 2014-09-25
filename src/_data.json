@@ -246,10 +246,31 @@
     "title": "Independent Lifestyle Solutions : Contact",
     "page": "contact",
     "intro": {
-      "headline": "Reimagined Possibilities",
+      "headline": "Independent Lifestyle Solutions ",
       "copy": [
+        "Whether you&rsquo;re ready to schedule your in-home consultation or you&rsquo;d just like to know more about Independent Lifestyle Solutions, we&rsquo;re always here for you.",
+
+        "By Phone: 216.469.3041 By Mail: 90 North Oviatt Street, Hudson, OH 44236 By Email: <a href=\"mailto:contact@independentlifestyle.solutions\">Contact@IndependentLifestyle.Solutions</a> or <a href=\"mailto:corina@independentlifestyle.solutions\">Corina@IndependentLifestyle.Solutions</a>"
       ]
-    }
+    },
+    "tabs": [
+      {
+        "title": "Consulting, Partnerships & New Business",
+        "copy": [
+          "Interested in Independent Lifestyle Solutions expert consulting services? Or considering expanding your existing business with an ILS partnership? From patient consults to residential construction, to new home designs, our CAPS certified experts can provide your project an unmatched level of value and insight.",
+
+            "By Email: <a href=\"mailto:opportunities@independentlifestyle.solutions\">Opportunities@IndependentLifestyle.Solutions</a>"
+        ]
+      },
+      {
+        "title": "Account Information, Billing & Receivables",
+        "copy": [
+          "For account information, project status, contracts, outstanding balances, and pending payments please reach out to our office manager. ",
+
+          "By Email: <a href=\"mailto:chloe@independentlifestyle.solutions\">Chloe@IndependentLifestyle.Solutions</a>"
+        ]
+      }
+    ]
   },
   "helpful-links": {
     "title": "Independent Lifestyle Solutions : Helpful Links",
