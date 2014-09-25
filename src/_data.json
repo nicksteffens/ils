@@ -223,11 +223,11 @@
         "title": "About Aging-in-Place",
 
         "copy": [
-          "Did you know that 90% of adults over the age of 65 would prefer to remain in their current residence as they age? But unfortunately almost 50% of people age 50+ report that they currently live in homes that will not meet their physical needs as they grow older. ",
+          "Did you know that 90% of adults over the age of 65 would prefer to remain in their current residence as they age? But unfortunately almost 50% of people age 50+ report that they currently live in homes that will not meet their physical needs as they grow older. <a href=\"http://assets.aarp.org/rgcenter/il/beyond_50_communities.pdf\" target=\"_blank\">http://assets.aarp.org/rgcenter/il/beyond_50_communities.pdf</a>",
 
           "Whether you live in a city, a suburb, your hometown, or out in the country, planning for your future past 50 can seem like an incredibly daunting task. How do you prepare? How do know what to expect? How can you predict changes to your independence or quality of life? Or any of the other challenges that often accompany aging? Especially when nearing, or already in, retirement. That&rsquo;s where Aging-in-Place comes in. ",
 
-          "The Center for Disease Control defines Aging-in-Place as &ldquo;the ability to live in one&rsquo;s own home and community safely, independently, and comfortably, regardless of age, income, or ability level.&rdquo; Getting older no longer has to mean losing the home you love and relocating into isolation, or becoming a burden to loved ones and those around you. Aging-in-Place allows you to continue your independence, leading the active life you love, in the home you can&rsquo;t imagine leaving. "
+          "The Center for Disease Control defines Aging-in-Place as &ldquo;the ability to live in one&rsquo;s own home and community safely, independently, and comfortably, regardless of age, income, or ability level.&rdquo; Getting older no longer has to mean losing the home you love and relocating into isolation, or becoming a burden to loved ones and those around you. Aging-in-Place allows you to continue your independence, leading the active life you love, in the home you can&rsquo;t imagine leaving. <a href=\"http://www.cdc.gov/healthyplaces/terminology.htm\" target=\"_blank\">http://www.cdc.gov/healthyplaces/terminology.htm</a>"
         ]
       },
       {
@@ -240,5 +240,15 @@
 
   "more": {
 
+  },
+
+  "contact": {
+    "title": "Independent Lifestyle Solutions : Contact",
+    "page": "contact",
+    "intro": {
+      "headline": "Reimagined Possibilities",
+      "copy": [
+      ]
+    }
   }
 }
