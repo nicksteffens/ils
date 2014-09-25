@@ -272,7 +272,44 @@ a {
 
   // navigation
   .navigation {
+    .col-sm-2 {
+
+      &:hover {
+        background: @theme-yellow;
+      }
+
+      &.dropdown {
+        position: relative;
+
+        ul {
+          display: none;
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 99;
+          list-style-type: none;
+
+          background: @theme-blue;
+        }
+
+
+
+        &:hover {
+          ul {
+            display: block;
+          }
+        }
+      }
+
+
+    }
+
+
+
     a {
+      display: block;
+      width:100%;
+      box-sizing: border-box;
       padding: 16px 0 19px;
       background: none;
 
@@ -280,9 +317,6 @@ a {
       text-align: center;
       text-decoration: none;
 
-      &:hover {
-        background: @theme-yellow;
-      }
     }
   }
 

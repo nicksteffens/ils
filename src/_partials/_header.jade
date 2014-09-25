@@ -9,21 +9,38 @@
     .row
       .col-sm-8.col-sm-offset-4.navigation
         .row
-          a.col-sm-2.col-sm-offset-2(href="/") home
-          a.col-sm-2.dropdown(href="process.html") process
+          .col-sm-2.col-sm-offset-2: a(href="/") home
+          .col-sm-2.dropdown
+            a(href="more") more
             ul
               li
-                a(href="procress.html#immediate-needs") Immediate Needs
+                a(href="process.html#our-process") Helpful Links
               li
-                a(href="process.html#long-term-services") Long-Term Services
-              li
-                a(href="process.html#future-planning") Future Planning
-              li
-                a(href="process.html#expert-consulting") Expert Consulting
+                a(href="process.html#faq") FAQ
 
-          a.col-sm-2(href="services.html") services
-          a.col-sm-2(href="about.html") about
-          a.col-sm-2(href="contact.html") contact
+          .col-sm-2.dropdown
+            a(href="services.html") services
+            ul
+              li
+                a(href="services.html#immediate-needs") Immediate Needs
+              li
+                a(href="services.html#long-term-services") Long-Term Services
+              li
+                a(href="services.html#future-planning") Future Planning
+              li
+                a(href="services.html#expert-consulting") Expert Consulting
+
+          .col-sm-2.dropdown
+            a(href="about.html") about
+            ul
+              li
+                a(href="about.html#about-us") About Us
+              li
+                a(href="about.html#aging-in-place") Aging in Place
+              li
+                a(href="about.html#about-caps") About CAPS
+
+          .col-sm-2: a(href="contact.html") contact
         //- .col-sm-2
           //- li: a(href="gallery.html") gallery
 
