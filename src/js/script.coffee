@@ -1,11 +1,10 @@
 App = {
   initialize: ()->
-    console.log 'App init'
     App.cardListener()
     App.getHash()
 
-
   toggleTab: (tab)->
+    console.log 'show ', tab
     if tab.indexOf('#') > -1
       tabgroup = tab.slice(1);
     else
@@ -41,6 +40,15 @@ App = {
     hash = window.location.hash
     if hash != ''
       App.toggleTab(hash)
+    # hashchange cardListener
+    $(window).hashchange( ()-> 
+        newHash = window.location.hash
+        App.toggleTab(newHash)
+      )
+
+
 
 }
+
+App.initialize()
 
