@@ -10,31 +10,33 @@
       {
         "icon": "stethascope",
         "copy": "I'm a health care professional who needs to make a recommendation",
-        "href": "#",
+        "href": "about.html",
         "reverse": {
-          "headline": "Health Care Professional",
+          "headline": "Health Care Professionals",
           "copy": [
-            "In turpis ante, accumsan in semper sit amet, gravida ac mi. Donec tincidunt consectetur aliquam."
+            "You need to be able to trust who you send your patients to. That's why we encourage you to get to know our unique team of expert contractors and seasoned medical professionals, so you can refer with confidence."
           ]
         }
       },
       {
         "icon": "heartrate",
         "copy": "My parents are getting older and I'm concerned about them living alone",
-        "href": "#",
+        "href": "services.html#immediate-needs",
         "reverse": {
           "headline": "Concerned Loved One",
           "copy": [
+            "Maybe you noticed them struggling with a jar, or going up and down the stairs. Maybe you're worried about their forgetfulness. Give them the gift of safety and independence, and give yourself peace of mind."
           ]
         }
       },
       {
         "icon": "houserent",
-        "copy": "I love my home and I want to ensure my future independence",
+        "copy": "I love my home and I want to ensure my future independence in it",
         "href": "services.html#future-planning",
         "reverse": {
-          "headline": "Future Planning",
+          "headline": "Lifestyle Investment",
           "copy": [
+            "You don't just live in your home, you live your life in your home. And as your needs change over time we can help you continue the commitment you've already made there. "
           ]
         }
       },
