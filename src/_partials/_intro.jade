@@ -4,4 +4,5 @@
       h2!= headline
 
     .col-sm-9.copy
-      p!= copy
+      each para in copy
+        p!= para

@@ -42,11 +42,13 @@
       },
       {
         "icon": "magnifying-glass",
-        "copy": "I need a Certified Aging-in-Place Specialist",
+        "copy": "My business or facility is looking for an experienced Certified Aging-in-Place Specialist to work with",
         "href": "services.html#expert-consulting",
         "reverse": {
-          "headline": "Consulting Services",
-          "copy": ["In turpis ante, accumsan in semper sit amet, gravida ac mi. Donec tincidunt consectetur aliquam."]
+          "headline": "ILS Collaboration",
+          "copy": [
+            "From strategic partnerships to individual projects, we help facilities and businesses provide their patients and aging customers with solutions designed to fit their specific needs."
+          ]
         }
       }
     ],
@@ -87,7 +89,7 @@
         "reverse": {
           "headline": "Immediate Needs",
           "copy": [
-            "Big or small, these are current challenges you're facing that affect your life on a day to day basis."
+            "These are the everyday challenges and struggles you’re currently facing. Ranging from limited mobility to slight hearing loss, they limit your independence and affect your life on a daily basis."
           ]
         }
       },
@@ -98,7 +100,7 @@
         "reverse": {
           "headline": "Long-Term Services",
           "copy": [
-            "Continued independence requires lasting solutions and consistent support to enjoy the life you want to live"
+            "Maintaining your independence requires lasting solutions and consistent support. Understanding your specific needs allows you to continue living the life you love."
           ]
         }
       },
@@ -109,7 +111,7 @@
         "reverse": {
           "headline": "Future Planning",
           "copy": [
-            "The easiest way to continue your current lifestyle is to plan to ensure your future one"
+            "When a house becomes a home, you can’t imagine leaving. It may seem confusing and uncertain, but planning ahead means not having to give up the investments you’ve already made."
           ]
         }
       },
@@ -127,50 +129,67 @@
     ],
     "tabs": [
       {
-        "title": "Vision & Hearing Impairments",
+        "title":"Basic Accessibility",
         "tabgroup": "immediate-needs",
-        "copy": [
-        ]
+        "copy": []
       },
       {
-        "title": "Mobility",
+        "title":"Kitchens",
         "tabgroup": "immediate-needs",
-        "copy": [
-        ]
+        "copy": []
       },
       {
-        "title": "Accessibility",
+        "title":"Bathrooms",
+        "tabgroup": "immediate-needs",
+        "copy": []
+      },
+      {
+        "title":"Living Areas",
+        "tabgroup": "immediate-needs",
+        "copy": []
+      },
+      {
+        "title": "Safety & Security",
+        "hidden": true,
         "tabgroup": "long-term-services",
-        "hidden": true,
-        "copy": [
-
-        ]
+        "copy": []
       },
       {
-        "title": "Bathrooms",
+        "title": "Scheduled Maintenance",
+        "hidden": true,
+        "tabgroup": "long-term-services",
+        "copy": []
+      },
+      {
+        "title": "Concierge Services",
+        "hidden": true,
+        "tabgroup": "long-term-services",
+        "copy": []
+      },
+      {
+        "title": "Multi-Phase Solutions",
+        "hidden": true,
         "tabgroup": "future-planning",
-        "hidden": true,
-        "copy": [
-
-        ]
+        "copy": []
       },
       {
-        "title": "Kitchen",
+        "title": "Temporary Needs",
+        "hidden": true,
         "tabgroup": "future-planning",
-        "hidden": true,
-        "copy": [
-
-        ]
+        "copy": []
       },
       {
-        "title": "Preventative",
+        "title": "Building & Design",
+        "hidden": true,
         "tabgroup": "expert-consulting",
+        "copy": []
+      },
+      {
+        "title": "Facilities & Practices",
         "hidden": true,
-        "copy": [
-
-        ]
+        "tabgroup": "expert-consulting",
+        "copy": []
       }
-
     ]
   },
 
@@ -218,6 +237,13 @@
     "intro": {
       "headline": "About US",
       "copy": [
+        "Independent Lifestyle Solutions is a company comprised of individuals who have witnessed the lack of support for folks who wish to stay in their own home during the retirement years and beyond. We understand that the aging population has an increased and wider variety of needs which will enable them to live a safe, secure and productive life.",
+
+        "We, at ILS, have seasoned professionals with combined experiences ranging  from geriatric medicine, long-term healthcare knowledge and building, contracting and remodeling skills. This unique combination of skills and knowledge gives us the expertise needed to ensure quality care for a wide continuum of needs. We offer a comprehensive assortment of services all focused on the goal of facilitating a safe, dignified and independent lifestyle available to all those in need.",
+
+        "More importantly, we are compassionate and caring people. We understand that there may be a degree of uncertainty and confusion in the process of deciding what one’s needs will be and how to prioritize them. Our desire is to sit down and listen carefully to our clients and their families or caregivers, and truly understand what works best for each individual. We also have a desire to be available for the on-going and long term needs and concerns which naturally arise for the maturing population.",
+
+        "We sincerely want you to stay in your home and we are here to help. "
       ]
     },
     "tabs": [
@@ -225,16 +251,22 @@
         "title": "About Aging-in-Place",
 
         "copy": [
-          "Did you know that 90% of adults over the age of 65 would prefer to remain in their current residence as they age? But unfortunately almost 50% of people age 50+ report that they currently live in homes that will not meet their physical needs as they grow older. <a href=\"http://assets.aarp.org/rgcenter/il/beyond_50_communities.pdf\" target=\"_blank\">http://assets.aarp.org/rgcenter/il/beyond_50_communities.pdf</a>",
+          "The Center for Disease Control defines Aging-in-Place as &#34;the ability to live in one’s own home and community safely, independently, and comfortably, regardless of age, income, or ability level.&#34; Did you know that 90% of adults over the age of 65 would prefer to remain in their current residence as they age? Unfortunately almost 50% of people age 50+ report that they currently live in homes that will not meet their physical needs as they grow older.",
 
-          "Whether you live in a city, a suburb, your hometown, or out in the country, planning for your future past 50 can seem like an incredibly daunting task. How do you prepare? How do know what to expect? How can you predict changes to your independence or quality of life? Or any of the other challenges that often accompany aging? Especially when nearing, or already in, retirement. That&rsquo;s where Aging-in-Place comes in. ",
+        "Whether you live in a city, a suburb, your hometown, or out in the country, planning for your future past 50 can seem like an incredibly daunting task. When nearing, or already in, retirement, how do you prepare? How do know what to expect? How can you predict changes to your independence, quality of life or any of the other challenges that often accompany aging?  That’s where Aging-in-Place comes in.",
 
-          "The Center for Disease Control defines Aging-in-Place as &ldquo;the ability to live in one&rsquo;s own home and community safely, independently, and comfortably, regardless of age, income, or ability level.&rdquo; Getting older no longer has to mean losing the home you love and relocating into isolation, or becoming a burden to loved ones and those around you. Aging-in-Place allows you to continue your independence, leading the active life you love, in the home you can&rsquo;t imagine leaving. <a href=\"http://www.cdc.gov/healthyplaces/terminology.htm\" target=\"_blank\">http://www.cdc.gov/healthyplaces/terminology.htm</a>"
+        "Aging no longer has to mean losing the home you love, relocating to senior living facilities or feeling like a burden to loved ones. Aging-in-Place allows you to continue your independence, leading the active life you love, in the home you can’t imagine leaving."
         ]
       },
       {
         "title": "About CAPS",
         "copy": [
+          "Certified Aging-in-Place Specialist. ",
+          "Due to the growing aging population the National Association of Home Builders (NAHB)Remodelers (TM) Council recognized the need for remodelers, contractors, and medical professionals alike to understand the specific needs of the 50+ population. In collaboration with the AARP, NAHB Research Center, and NAHB Senior Housing Council the CAPS designation was established to identify professionals who have been specifically trained and certified to help seniors and older adults live in their homes safely as they age. ",
+
+          "Working with a Certified Aging-In-Place Specialist you can rest assured knowing you’re in the hands of an AARP and NAHB accredited professional with the expertise to properly serve the needs of older adults.This program was developed to provide professionals training that would enable them to accommodate the needs of people over the age of 50, as well as the knowledge they would need to modify their homes for aging in place.",
+
+          "Simply put, a CAPS certified professional has been trained to address the unique needs of seniors, modifying homes so someone can live there longer as they age and addressing the most common barriers in a home. "
         ]
       }
     ]
