@@ -123,16 +123,10 @@ a {
       text-align: center;
       padding: 20px 0 0;
       margin: 0;
-
-      .services & {
-        .font-resize(20px);
-      }
-
-      .contact & {
-        .font-resize(26px);
-      }
     }
   }
+
+
 
   .copy {
     border-left: 2px solid @theme-yellow;
@@ -142,6 +136,23 @@ a {
   }
 
 }
+
+// tabs only
+.tabs {
+  .headline {
+    h2 {
+      .services & {
+        .font-resize(20px);
+      }
+
+      .contact & {
+        .font-resize(26px);
+      }
+    }
+  }
+}
+
+
 
 
 .cards {
