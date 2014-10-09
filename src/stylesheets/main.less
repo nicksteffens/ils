@@ -33,11 +33,11 @@
   text-transform: uppercase;
 }
 
-.fonts-headline {
+.fonts-headline(@color: @theme-blue; @size: 30px) {
   .font-bodoni;
-  font-size: 30px;
-  line-height: 36px;
-  color: @theme-blue;
+  font-size: @size;
+  line-height: @size;
+  color: @color;
 }
 
 .fonts-body(@color: @theme-grey; @size: 14px; @line-height: 22px;) {
@@ -45,6 +45,11 @@
   .font-helvetica;
   font-size: @size;
   line-height: @line-height;
+}
+
+.font-resize(@size) {
+  font-size: @size;
+  line-height: @size;
 }
 
   // buttons
@@ -114,10 +119,18 @@ a {
   .headline {
 
     h2 {
-      .fonts-headline;
+      .fonts-headline();
       text-align: center;
       padding: 20px 0 0;
       margin: 0;
+
+      .services & {
+        .font-resize(20px);
+      }
+
+      .contact & {
+        .font-resize(26px);
+      }
     }
   }
 
@@ -182,8 +195,9 @@ a {
 
   .reverse {
     display: none;
-    position: absolute;
-    top: 0; left: 15px;
+    position: relative;
+    top: auto;
+    left: auto;
     box-sizing: border-box;
     height: 214px;
     max-width: 100%;
@@ -211,11 +225,6 @@ a {
       .font-minion-pro;
       font-size: 14px;
     }
-  }
-
-  .home .reverse {
-    position: relative;
-    top: auto; left: auto;
   }
 
 }
@@ -359,7 +368,7 @@ a {
   display: block;
   position: relative;
   // margin-top: 60px;
-  padding: 10px 0 28px;
+  padding: 10px 0;
   background: @theme-blue;
 
   .container {
@@ -380,6 +389,16 @@ a {
     }
   }
 
+}
+
+.address-bar {
+  padding-bottom: 28px;
+  background: @theme-blue;
+  color: @theme-white;
+
+  small {
+    font-size: 60%;
+  }
 }
 
 

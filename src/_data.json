@@ -206,7 +206,7 @@
       },
       {
         "headline": "What's the cost of aging-in-place?",
-        "copy": "The advantage of aging-in-place isn't only the ability to remain in your own home, but the financial savings as well. In most cases aging-in-place is not only a more desirable solution for Seniors but also the most financially sound investment at lower cost to families. Home renovations and improvements, even with in-home services, are usually a fraction of the price compared to assisted living and private nursing home alternatives. Don't believe us? Calculate long-term-care costs in your area (<a href='http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC'>http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC</a>) and see how much you can save today by aging-in-place with Independent Lifestyle Solutions. "
+        "copy": "The advantage of aging-in-place isn't only the ability to remain in your own home, but the financial savings as well. In most cases aging-in-place is not only a more desirable solution for Seniors but also the most financially sound investment at lower cost to families. Home renovations and improvements, even with in-home services, are usually a fraction of the price compared to assisted living and private nursing home alternatives. Don't believe us? Calculate long-term-care costs in your area (<a href='http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC' target=\"_blank\">http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC</a>) and see how much you can save today by aging-in-place with Independent Lifestyle Solutions. "
       },
       {
         "headline": "Who should be at the In-Home Consultation?",
@@ -284,7 +284,7 @@
       "copy": [
         "Whether you&rsquo;re ready to schedule your in-home consultation or you&rsquo;d just like to know more about Independent Lifestyle Solutions, we&rsquo;re always here for you.",
 
-        "By Phone: 216.469.3041 By Mail: 90 North Oviatt Street, Hudson, OH 44236 By Email: <a href=\"mailto:contact@independentlifestyle.solutions\">Contact@IndependentLifestyle.Solutions</a> or <a href=\"mailto:corina@independentlifestyle.solutions\">Corina@IndependentLifestyle.Solutions</a>"
+        "By Phone: 216.469.3041 By Mail: 90 North Oviatt Street, Hudson, OH 44236 By Email: <a href=\"mailto:contact@independentlifestyle.solutions\">Contact<span class=\"hidden-xs\">@IndependentLifestyle.Solutions</span></a> or <a href=\"mailto:corina@independentlifestyle.solutions\">Corina<span class=\"hidden-xs\">@IndependentLifestyle.Solutions</span></a>"
       ]
     },
     "tabs": [
@@ -293,7 +293,7 @@
         "copy": [
           "Interested in Independent Lifestyle Solutions expert consulting services? Or considering expanding your existing business with an ILS partnership? From patient consults to residential construction, to new home designs, our CAPS certified experts can provide your project an unmatched level of value and insight.",
 
-            "By Email: <a href=\"mailto:opportunities@independentlifestyle.solutions\">Opportunities@IndependentLifestyle.Solutions</a>"
+            "By Email: <a href=\"mailto:opportunities@independentlifestyle.solutions\">Opportunities<span class=\"hidden-xs\">@IndependentLifestyle.Solutions</span></a>"
         ]
       },
       {
@@ -301,7 +301,7 @@
         "copy": [
           "For account information, project status, contracts, outstanding balances, and pending payments please reach out to our office manager. ",
 
-          "By Email: <a href=\"mailto:chloe@independentlifestyle.solutions\">Chloe@IndependentLifestyle.Solutions</a>"
+          "By Email: <a href=\"mailto:chloe@independentlifestyle.solutions\">Chloe<span class=\"hidden-xs\">@IndependentLifestyle.Solutions</span></a>"
         ]
       }
     ]
