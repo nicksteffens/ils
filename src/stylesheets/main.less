@@ -423,10 +423,80 @@ a {
 =            media queries            =
 =====================================*/
 
-@media (max-width: 512px) {
+@media screen and (max-width: 767px) {
   .container-fluid {
     max-width: 100%;
+
+    #header {
+
+
+      .logo-container {
+        border: none;
+        padding-bottom: 37px;
+
+        .logo {
+          display: inline-block;
+        }
+      }
+
+      .navbar-toggle {
+        display: inline-block;
+        margin-left: 20px;
+
+        .icon-bar {
+          background: @theme-white;
+        }
+      }
+
+      .navigation {
+        display: none;
+
+        .col-sm-2:hover,
+        .col-sm-2 a:hover {
+          background: @theme-blue;
+        }
+
+        a {
+          font-size: 115%;
+        }
+
+        .dropdown {
+          ul {
+            position: relative;
+            top: auto;
+            left: auto;
+
+          }
+
+          &:hover {
+            ul { display:none; }
+          }
+        }
+      }
+    }
+
+    #footer {
+      .text-right {
+        text-align: center !important;
+
+        .copyright {
+          font-size: 12px;
+        }
+      }
+    }
+
+    .address-bar {
+      .text-right {
+        text-align: center;
+        small {
+          font-size: 80%;
+        }
+      }
+    }
+
   }
+
+
 }
 
 /*-----  End of media queries  ------*/

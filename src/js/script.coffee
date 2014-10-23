@@ -2,9 +2,10 @@ App = {
   initialize: ()->
     App.cardListener()
     App.getHash()
+    App.navbarListener()
 
   toggleTab: (tab)->
-    console.log 'show ', tab
+    # console.log 'show ', tab
     if tab.indexOf('#') > -1
       tabgroup = tab.slice(1);
     else
@@ -33,7 +34,7 @@ App = {
 
     $('a.card.home').on(
       hover: (e)->
-        console.log 'hover'
+        # console.log 'hover'
       )
 
   getHash: ()->
@@ -44,6 +45,14 @@ App = {
     $(window).hashchange( ()->
         newHash = window.location.hash
         App.toggleTab(newHash)
+      )
+
+  navbarListener: ()->
+    $('.navbar-toggle').on(
+        click: (e)->
+          e.preventDefault
+          $('.navigation').toggle()
+
       )
 
 
