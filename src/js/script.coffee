@@ -11,9 +11,9 @@ App = {
       tabgroup = tab
       tab = '#' + tab
 
-    if $(tab).length > 0
+    if $('a[href='+tab+']').length > 0
       $('.card').removeClass('active')
-      $(tab).addClass('active')
+      $('a[href='+tab+']').addClass('active')
 
       $('.tab').addClass('hidden');
 
@@ -23,7 +23,7 @@ App = {
   cardListener: ->
     $('a.card:not(.home)').on(
         click: (e)->
-          tab = $(this).attr('id')
+          tab = $(this).attr('href')
           $('a.card').removeClass('active')
           $(this).toggleClass('active')
 
@@ -41,7 +41,7 @@ App = {
     if hash != ''
       App.toggleTab(hash)
     # hashchange cardListener
-    $(window).hashchange( ()-> 
+    $(window).hashchange( ()->
         newHash = window.location.hash
         App.toggleTab(newHash)
       )
