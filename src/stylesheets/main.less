@@ -31,6 +31,10 @@
   .font-futura;
   font-size: @size;
   text-transform: uppercase;
+
+  &.small {
+    font-size: @size - 1;
+  }
 }
 
 .fonts-headline(@color: @theme-blue; @size: 30px) {
@@ -348,6 +352,7 @@ a {
       .fonts-navigation();
       text-align: center;
       text-decoration: none;
+
 
       &:hover {
         background: @theme-yellow;
