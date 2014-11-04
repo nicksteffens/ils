@@ -85,7 +85,7 @@
         "icon": "wheelchair",
         "tabgroup": "immediate-needs",
         "copy": "Immediate Needs",
-        "active": true,
+        "active": "active",
         "reverse": {
           "headline": "Immediate Needs",
           "copy": [
@@ -97,6 +97,7 @@
         "icon": "calendar",
         "tabgroup": "long-term-services",
         "copy": "Long-Term Services",
+        "active": "",
         "reverse": {
           "headline": "Long-Term Services",
           "copy": [
@@ -108,6 +109,7 @@
         "icon": "house",
         "tabgroup": "future-planning",
         "copy": "Future Planning",
+        "active": "",
         "reverse": {
           "headline": "Future Planning",
           "copy": [
@@ -119,6 +121,7 @@
         "icon": "briefcase",
         "tabgroup": "expert-consulting",
         "copy": "Expert Consulting",
+        "active": "",
         "reverse": {
           "headline": "Expert Consulting",
           "copy": [
