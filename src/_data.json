@@ -9,12 +9,12 @@
     "cards": [
       {
         "icon": "stethascope",
-        "copy": "I'm a health care professional who needs to make a recommendation",
+        "copy": "I'm a health care professional who needs to make a patient recommendation",
         "href": "about.html",
         "reverse": {
-          "headline": "Health Care Professionals",
+          "headline": "Health Care",
           "copy": [
-            "You need to be able to trust who you send your patients to. That’s why we encourage you to get to know our unique team of expert contractors and seasoned medical professionals, so you can refer your patients with confidence."
+            "Trust and dependability are two of our highest priorities. That's why we encourage you to get to know our specialized team of expert contractors and medical professionals, so you can refer with confidence. "
           ]
         }
       },
@@ -23,9 +23,9 @@
         "copy": "My parents are getting older and I'm concerned about them living alone",
         "href": "services.html#immediate-needs",
         "reverse": {
-          "headline": "Concerned Loved One",
+          "headline": "Concerned Family",
           "copy": [
-            "Maybe you noticed them struggling with a jar, or going up and down the stairs. Maybe you're worried about their forgetfulness. Give them the gift of safety and independence, and give yourself peace of mind."
+            "-  Maybe you noticed them struggling with a jar, or getting up the stairs. Maybe you're worried about their forgetfulness. Give them the gift of safety and independence, and yourself peace of mind. "
           ]
         }
       },
@@ -34,7 +34,7 @@
         "copy": "I love my home and I want to ensure my future independence in it",
         "href": "services.html#future-planning",
         "reverse": {
-          "headline": "Lifestyle Investment",
+          "headline": "home for life",
           "copy": [
             "You don't just live in your home, you live your life in your home. And as your needs change over time we can help you continue the commitment you've already made there. "
           ]
@@ -42,12 +42,12 @@
       },
       {
         "icon": "magnifying-glass",
-        "copy": "My business or facility is looking for an experienced Certified Aging-in-Place Specialist to work with",
+        "copy": "My business is looking for an experienced Certified Aging-in-Place Specialist to work with",
         "href": "services.html#expert-consulting",
         "reverse": {
           "headline": "ILS Collaboration",
           "copy": [
-            "From strategic partnerships to individual projects, we help facilities and businesses provide their patients and aging customers with solutions designed to fit their specific needs."
+            "By sharing our knowledge and expertise we're able to help care facilities and businesses provide their patients and customers more effective solutions. "
           ]
         }
       }
@@ -89,7 +89,7 @@
         "reverse": {
           "headline": "Immediate Needs",
           "copy": [
-            "These are the everyday challenges and struggles you&#39;re currently facing. Ranging from limited mobility to slight hearing loss, they limit your independence and affect your life on a daily basis."
+            "These are the everyday challenges and struggles you're currently facing, limiting your independence and affecting your life on a daily basis."
           ]
         }
       },
@@ -101,7 +101,7 @@
         "reverse": {
           "headline": "Long-Term Services",
           "copy": [
-            "Maintaining your independence requires lasting solutions and consistent support. Understanding your specific needs allows you to continue living the life you love."
+            "It may seem overwhelming, confusing, and uncertain at times, but planning ahead means not having to sacrifice later."
           ]
         }
       },
@@ -315,17 +315,23 @@
     "intro": {
       "headline": "Helpful Links",
       "copy": [
+        "<a href=\"http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC\" target=\"_blank\"><strong>Long-Term Care Calculator - AARP</strong></a><br />The rising cost of long-term care, coupled with an increasing array of options, can make it difficult for families to find the best, affordable care. The calculator below can assist with that process by estimating the cost of long-term care. Simply select your state and region along with the type of care needed to get your estimate. You can even compare costs in one state and region with another. The calculator will give you a total cost estimate.",
+
+        "<a href=\"http://www.aarp.org/home-family/caregiving/planning-and-resources/?intcmp=AE-HF-CRC-TERTNAV-PLAN\" target=\"_blank\"><strong>Caregiving Resource Center – AARP</strong></a><br /> Resources and Assistance for Senior Care, Home Care and Elderly Caregiving Needs. Information, tools and tips for caregivers.",
+
+        "<a href=\"https://www.benefitscheckup.org\" target=\"_blank\"><strong>BenefitsCheckUp – National Council on Aging (NCOA)</strong></a><br />BenefitsCheckUp is free service of the National Council on Aging, a nonprofit service and advocacy organization in Washington, DC. Many adults over 55 need help paying for prescription drugs, health care, utilities, and other basic needs. There are over 2,000 federal, state and private benefit programs available to help. But many people don’t know these programs exist or how they can apply. BenefitsCheckup asks a series of questions to help identify benefits that could save you money and cover the costs of everyday expenses.",
+
+        "<a href=\"http://longtermcare.gov\" target=\"_blank\"><strong>LongTermCare.gov - Administration on Aging</strong></a><br />The Administration for Community Living, an agency of the U.S. Department of Health and Human Services, brings together the efforts and achievements of the Administration on Aging, the Administration on Intellectual and Developmental Disabilities, and the HHS Office on Disability to serve as the Federal agency responsible for increasing access to community supports, while focusing attention and resources on the unique needs of older Americans and people with disabilities across the lifespan.",
+
+
+        "<a href=\"http://www.aoa.gov/aoa_programs/hcltc/caregiver/index.aspx\" target=\"_blank\"><strong>National Family Caregiver Support Program (NFCSP)</strong></a><br />The NFCSP, established in 2000, provides grants to States and Territories, based on their share of the population aged 70 and over, to fund a range of supports that assist family and informal caregivers to care for their loved ones at home for as long as possible. Studies have shown that these services can reduce caregiver depression, anxiety, and stress and enable them to provide care longer, thereby avoiding or delaying the need for costly institutional care.",
+
+        "<a href=\"http://www.eldercare.gov/eldercare.NET/Public/index.aspx/\" target=\"_blank\"><strong>Eldercare Locator – Health & Human Services</strong></a> The Eldercare Locator is a nationwide service that connects older Americans and their caregivers with information on senior services, including Area Agencies on Aging. This is a government website.",
+
+        "<a href=\"http://www.ncoa.org\" target=\"_blank\"><strong>National Council on Aging (NCOA</strong></a>) The National Council on Aging is the nation’s leading nonprofit service and advocacy organization representing older adults and the community organizations that serve them. For more than 60 years, NCOA has been a trusted voice and innovative problem-solver helping seniors navigate the challenges of aging in America."
       ]
     },
     "tabs": [
-      {
-        "title": "links",
-        "copy": [
-          "<a href=\"http://www.aarp.org/relationships/caregiving-resource-center/LTCC/?intcmp=HP-LN-CRGVNG-LTCC\" target=\"_blank\">Long-Term Care Calculator</a>",
-          "<a href=\"http://www.aarp.org/home-family/caregiving/?intcmp=HP-LN-CRGVNG-CRC\" target=\"_blank\">Caregiving Resource Center</a>",
-          "<a href=\"http://www.aoa.gov/aoa_programs/hcltc/caregiver/index.aspx\"  target=\"_blank\">National Family Caregiver Support Program</a>"
-        ]
-      }
     ]
   }
 }
