@@ -4,6 +4,8 @@
     "intro": {
       "headline": "Lifestyles Redefined",
       "copy": [
+        "When a house becomes a home you can't imagine leaving. It's where you've decided to plant roots, create memories, and grow old with the ones you love. And we understand the commitment you've made there. ",
+        "As Ohio's most trusted Aging-in-Place Remodeling experts it's our job to help ensure your future independence in the home of your choosing, through retirement and beyond. Whether you know exactly what you're looking for or feel like you don't know where to start, Independent Lifestyle Solutions is here to help. "
       ]
     },
     "cards": [
@@ -25,13 +27,13 @@
         "reverse": {
           "headline": "Concerned Family",
           "copy": [
-            "-  Maybe you noticed them struggling with a jar, or getting up the stairs. Maybe you're worried about their forgetfulness. Give them the gift of safety and independence, and yourself peace of mind. "
+            "Maybe you noticed them struggling with a jar, or getting up the stairs. Maybe you're worried about their forgetfulness. Give the gift of safety and independence, and yourself peace of mind."
           ]
         }
       },
       {
         "icon": "houserent",
-        "copy": "I love my home and I want to ensure my future independence in it",
+        "copy": "I love my home and want to ensure my future independence here",
         "href": "services.html#future-planning",
         "reverse": {
           "headline": "home for life",
@@ -54,16 +56,16 @@
     ],
     "ctas": [
       {
-        "headline": "Have any Questions?",
-        "copy": "We understand this can be a challenging process, so we compiled a list of the most frequently asked questions(FAQs) to aid clients.",
+        "headline": "WHO WE HELP",
+        "copy": "We also provide assistance to those needing home modifications due to acute or chronic illness and those with disabilities",
         "link": {
-          "copy": "Learn More Now",
+          "copy": "Learn More",
           "href": "faqs.html"
         }
       },
       {
-        "headline": "We&#39;re here for you",
-        "copy": "Sometimes a FAQ page isn't enough. We're here to answer any and all questions about the kind of service that will be best forcare receiver.",
+        "headline": "HERE FOR YOU",
+        "copy": "Whether you're starting to plan for the future, ready to schedule a consultation, or simply want to know more, we're always here",
         "link": {
           "copy": "Contact us",
           "href": "contact.html"
@@ -78,6 +80,8 @@
     "intro": {
       "headline": "Solutions & Services",
       "copy": [
+        "We are accessibility and Aging-in-Place experts, but more than that, we are problem solvers. ",
+        "We get to know you, and gain insight and understanding into your everyday life, personal tastes, and the challenges you're currently facing. "
       ]
     },
     "cards": [
@@ -96,12 +100,12 @@
       {
         "icon": "calendar",
         "tabgroup": "long-term-services",
-        "copy": "Long-Term Services",
+        "copy": "<span style=\"font-size:17px;\">Long-Term Services</span>",
         "active": "",
         "reverse": {
-          "headline": "Long-Term Services",
+          "headline": "<span style=\"font-size:17px;\">Long-Term Services</span>",
           "copy": [
-            "It may seem overwhelming, confusing, and uncertain at times, but planning ahead means not having to sacrifice later."
+            "Maintaining your independence requires lasting solutions and consistent support. Understanding your specific needs allows you to continue living the life you love. "
           ]
         }
       },
@@ -113,7 +117,7 @@
         "reverse": {
           "headline": "Future Planning",
           "copy": [
-            "When a house becomes a home, you can&#39;t imagine leaving. It may seem confusing and uncertain, but planning ahead means not having to give up the investments you&#39;ve already made."
+            "It may seem overwhelming, confusing, and uncertain at times but planning ahead means not having to sacrifice later."
           ]
         }
       },
@@ -125,7 +129,7 @@
         "reverse": {
           "headline": "Expert Consulting",
           "copy": [
-            "We help medical professionals and businesses provide their patients and aging-in-place customers with solutions designed to fit their specific needs"
+            "Understanding the complex needs of the aging population allows us to provide support and effective solutions in a variety of ways."
           ]
         }
       }
@@ -134,64 +138,76 @@
       {
         "title":"Basic Accessibility",
         "tabgroup": "immediate-needs",
-        "copy": []
-      },
-      {
-        "title":"Kitchens",
-        "tabgroup": "immediate-needs",
-        "copy": []
+        "copy": [
+          "From slight hearing loss to an inability to get around your home, we can help you get back to the independent lifestyle you love.",
+          "Are you able to safely and easily use the front and back entrances to your home? Can you get upstairs to the second floor? Or down to the basement? Are your doors wide enough for a wheelchair? Accessibility is critical to living independently. We provide… ",
+          "<ul><li>Wheelchair ramps</li><li>Vertical platform + residential stair lifts</li><li>Automatic door openers</li><li>Thermostat control systems</li><li>Single-level layouts</li><li>Home security systems</li><li>Keyless entry locks</li><li>Wireless phone systems</li></ul>"
+        ]
       },
       {
         "title":"Bathrooms",
         "tabgroup": "immediate-needs",
-        "copy": []
+        "copy": [
+          "Bathrooms are the number one room in your house where accidents and falls are likely to occur. Many people have trouble even getting in and out of the shower. Protect yourself and prevent injury with… ",
+
+          "<ul><li>Custom bathroom remodeling</li><li>Roll-in showers + walk-in bathtubs</li><li>Grab bars + other support devices</li><li>Water temperature regulators</li><li>Non-slip flooring</li><li>Roll-under sinks</li><li>Single lever faucets</li><li>ADA compliant toilets</li></ul>"
+        ]
       },
       {
         "title":"Living Areas",
         "tabgroup": "immediate-needs",
-        "copy": []
+        "copy": [
+          "These are the areas in your home where you spend the most time. Relaxing and reading, watching movies, entertaining family and friends. Continue making memories and enjoy these rooms with… ",
+
+          "<ul><li>Zero-threshold entrances</li><li>Widened doorways + hallways</li><li>Ease-of-use windows</li><li>Furniture height adjustments</li><li>Swing-clear door hinges</li><li>Sensitive lighting solutions</li><li>Remote control shades + blinds</li><li>Closet + storage modifications</li></ul>"
+        ]
       },
       {
-        "title": "Safety & Security",
+        "title":"Kitchens",
+        "tabgroup": "immediate-needs",
+        "copy": [
+          "Even the slightest loss of mobility or impairment can make your kitchen hazardous and unusable. We can help you get cookin' with… ",
+
+          "<ul><li>Wheelchair accessible cooktops</li><li>Roll-under countertops + sinks</li><li>Range hood installations</li><li>Lever handle faucet controls</li><li>Multilevel workstations</li><li>Counter height adjustments</li><li>Cupboard + storage access</li><li>Proper waste management</li></ul>"
+        ]
+      },
+      {
+        "title": "Safety & Security <br /><br />SCHEDULED MAINTENANCE <br /><br />CONCIERGE SERVICES",
         "hidden": true,
         "tabgroup": "long-term-services",
-        "copy": []
+        "copy": [
+          "Have you checked your smoke alarms this month? Do your front steps get dangerously icy in the winter? Is it worth the risk of a fall to clean your own gutters? And wouldn't it be great if you didn't have to go to the grocery store? ",
+          "Scheduled on a monthly, bi-monthly, or as needed basis, our long-term services help reduce some of the day-to-day burdens and homeowner hassles that come with living independently. Let us take care of it, so you don't have to. ",
+          "<strong>Concierge Services:</strong><br /><ul><li>Pre-made meal delivery</li><li>Grocery + pharmacy delivery</li><li>Dry cleaning drop off + pick up</li><li>Organizational Services</li><li>Lawn care + snow removal</li><li>Gutter cleaning</li></ul>",
+
+          "<strong>Scheduled Maintenance:</strong><br />Have one of our experts conduct our comprehensive ILS Home Check-Up, complete with full safety inspection, while providing essential routine maintenance.  ",
+
+          "<strong>Safety + Security:</strong><br />The safety around your home is just as important as the safety in your home. We offer several home security options including Visitor Alert and Emergency Response Systems. ",
+
+          "We're always expanding our long-term services, call and see what's available in your area today!"
+        ]
       },
       {
-        "title": "Scheduled Maintenance",
-        "hidden": true,
-        "tabgroup": "long-term-services",
-        "copy": []
-      },
-      {
-        "title": "Concierge Services",
-        "hidden": true,
-        "tabgroup": "long-term-services",
-        "copy": []
-      },
-      {
-        "title": "Multi-Phase Solutions",
+        "title": "MULTI-PHASE SOLUTIONS<br /><br /> TEMPORARY NEEDS",
         "hidden": true,
         "tabgroup": "future-planning",
-        "copy": []
+        "copy": [
+          "Whether your needs are temporary or you're planning for retirement and beyond, we can help. ",
+          "Maybe you're just entering retirement and feel it's too early to start thinking about Aging-in-Place. While you might not be experiencing any problems with your home now it's important to pro-actively plan for your future there. ",
+          "Would daily life be easier if your laundry room was on the main floor? Is it already a hassle bringing in bags from the car? Do you have to go up or down stairs in order to access the bathroom? ",
+          "If you're needs aren't currently present or you prefer smaller updates over a longer period of time, we can help. We'll work with you and together create a multi-phase plan for your future in your home, at your pace.   ",
+          "We also provide temporary solutions for those with short-term needs, like during surgery recover or while undergoing physical therapy. "
+        ]
       },
       {
-        "title": "Temporary Needs",
-        "hidden": true,
-        "tabgroup": "future-planning",
-        "copy": []
-      },
-      {
-        "title": "Building & Design",
-        "hidden": true,
-        "tabgroup": "expert-consulting",
-        "copy": []
-      },
-      {
-        "title": "Facilities & Practices",
+        "title": "Building &amp; Design <br /><br /> Facilities &amp; Practices",
         "hidden": true,
         "tabgroup": "expert-consulting",
-        "copy": []
+        "copy": [
+          "The Independent Lifestyle Solutions team consists of expert contractors, remodelers, and seasoned medical professionals who specialize in geriatric medicine and long-term healthcare. It's with our combined backgrounds that we're able to understand the complexities and struggles specific to the aging population and those with disabilities. ",
+          "From strategic partnerships to individual projects, we consult with outside construction, architectural, and building development companies by providing insight and expertise on the Aging-in-Place community. With a better understanding of the Aging-in-Place consumer businesses can more closely align their products and services with customer needs. ",
+          "We collaborate with medical professionals, acute care facilities, and nursing homes to ensure continuity of care and smoothly transition patients back into their homes. A partnership with ILS provides a comprehensive adjunct to the overall treatment plan, ensuring increased patient and family satisfaction, and less likelihood of relapse or hospital readmission. Our goal is to help facilitate patient independence, safety, and most importantly, a better quality of life. "
+        ]
       }
     ]
   },
@@ -319,7 +335,7 @@
 
         "<a href=\"http://www.aarp.org/home-family/caregiving/planning-and-resources/?intcmp=AE-HF-CRC-TERTNAV-PLAN\" target=\"_blank\"><strong>Caregiving Resource Center – AARP</strong></a><br /> Resources and Assistance for Senior Care, Home Care and Elderly Caregiving Needs. Information, tools and tips for caregivers.",
 
-        "<a href=\"https://www.benefitscheckup.org\" target=\"_blank\"><strong>BenefitsCheckUp – National Council on Aging (NCOA)</strong></a><br />BenefitsCheckUp is free service of the National Council on Aging, a nonprofit service and advocacy organization in Washington, DC. Many adults over 55 need help paying for prescription drugs, health care, utilities, and other basic needs. There are over 2,000 federal, state and private benefit programs available to help. But many people don’t know these programs exist or how they can apply. BenefitsCheckup asks a series of questions to help identify benefits that could save you money and cover the costs of everyday expenses.",
+        "<a href=\"https://www.benefitscheckup.org\" target=\"_blank\"><strong>BenefitsCheckUp – National Council on Aging (NCOA)</strong></a><br />BenefitsCheckUp is free service of the National Council on Aging, a nonprofit service and advocacy organization in Washington, DC. Many adults over 55 need help paying for prescription drugs, health care, utilities, and other basic needs. There are over 2,000 federal, state and private benefit programs available to help. But many people don't know these programs exist or how they can apply. BenefitsCheckup asks a series of questions to help identify benefits that could save you money and cover the costs of everyday expenses.",
 
         "<a href=\"http://longtermcare.gov\" target=\"_blank\"><strong>LongTermCare.gov - Administration on Aging</strong></a><br />The Administration for Community Living, an agency of the U.S. Department of Health and Human Services, brings together the efforts and achievements of the Administration on Aging, the Administration on Intellectual and Developmental Disabilities, and the HHS Office on Disability to serve as the Federal agency responsible for increasing access to community supports, while focusing attention and resources on the unique needs of older Americans and people with disabilities across the lifespan.",
 
@@ -328,7 +344,7 @@
 
         "<a href=\"http://www.eldercare.gov/eldercare.NET/Public/index.aspx/\" target=\"_blank\"><strong>Eldercare Locator – Health & Human Services</strong></a> The Eldercare Locator is a nationwide service that connects older Americans and their caregivers with information on senior services, including Area Agencies on Aging. This is a government website.",
 
-        "<a href=\"http://www.ncoa.org\" target=\"_blank\"><strong>National Council on Aging (NCOA</strong></a>) The National Council on Aging is the nation’s leading nonprofit service and advocacy organization representing older adults and the community organizations that serve them. For more than 60 years, NCOA has been a trusted voice and innovative problem-solver helping seniors navigate the challenges of aging in America."
+        "<a href=\"http://www.ncoa.org\" target=\"_blank\"><strong>National Council on Aging (NCOA</strong></a>) The National Council on Aging is the nation's leading nonprofit service and advocacy organization representing older adults and the community organizations that serve them. For more than 60 years, NCOA has been a trusted voice and innovative problem-solver helping seniors navigate the challenges of aging in America."
       ]
     },
     "tabs": [
