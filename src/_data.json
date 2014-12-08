@@ -71,7 +71,7 @@
         "copy": "We also provide assistance to those needing home modifications due to acute or chronic illness and those with disabilities",
         "link": {
           "copy": "Learn More",
-          "href": "faqs.html"
+          "href": "services.html#immediate-needs"
         }
       },
       {
@@ -345,23 +345,23 @@
     ],
     "page": "contact",
     "intro": {
-      "headline": "Independent Lifestyle Solutions ",
+      "headline": "Contact <br />Us",
       "copy": [
-       "<strong>Independence Redefined at Every Life Stage.</strong>",
+       "Independence Redefined at Every Life Stage.",
        "Whether you’re starting to plan for the future, ready to schedule an In-Home Consultation, or if you’d just like to know more about Independent Lifestyle Solutions, we’re always here for you.",
        
        "Independent Lifestyle Solutions <br />Phone: 216.469.3041 <br /><a href=\"mailto:Contact@IndependentLifestyle.Solutions\">Contact@IndependentLifestyle.Solutions</a>",
 
-       "<strong>GENERAL INFORMATION</strong>",
+       "<strong class=\"bodoni\">GENERAL INFORMATION</strong>",
        "Mailing Address<br />68 Ravenna Street P.O. #1414<br />Hudson, OH 44236",
 
        "Office Hours <br />Monday – Friday 9am - 6pm <br />Saturday – Sunday 10am - 5pm",
 
-       "<strong>MEDICAL PROFESSIONALS, CARE FACILITIES & BUSINESS OPPORTUNITIES</strong>",
+       "<strong class=\"bodoni\">MEDICAL PROFESSIONALS, CARE FACILITIES & BUSINESS OPPORTUNITIES</strong>",
        "Want to better ensure continuity of care at home and safely provide patients a higher quality of life? Interested in our professional consulting services? Or considering expanding your business with an Aging-in-Place partner?",
        "To see how our CAPS certified experts can provide your patients, projects, or business an unmatched level of value and insight email us at <a href=\"mailto:Opportunities@IndependentLifestyle.Solutions\">Opportunities@IndependentLifestyle.Solutions</a>",
 
-       "<strong>EXISTING CLIENTS, PARTNERS & ACCOUNT INFORMATION</strong>",
+       "<strong class=\"bodoni\">EXISTING CLIENTS, PARTNERS & ACCOUNT INFORMATION</strong>",
        "For status updates, project or timeline changes, accounts receivable, or if you have inquiries regarding your contract or services please reach out to",
        "Chloe Shepherd <br />Phone: 216.337.0820<br /><a href=\"mailto:Chloe@IndependentLifestyle.Solutions\">Chloe@IndependentLifestyle.Solutions</a>"
       ]
@@ -369,6 +369,7 @@
     "tabs": [
     ]
   },
+
   "helpful-links": {
     "title": "Independent Lifestyle Solutions : Helpful Links",
     "meta": [
