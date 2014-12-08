@@ -16,7 +16,8 @@
         "reverse": {
           "headline": "Health Care",
           "copy": [
-            "Trust and dependability are two of our highest priorities. That's why we encourage you to get to know our specialized team of expert contractors and medical professionals, so you can refer with confidence. "
+            "Trust and dependability are our top priorities. That's why we encourage you to get to know our specialized team of expert contractors and medical professionals, so you can refer with confidence."
+
           ]
         }
       },
@@ -27,7 +28,7 @@
         "reverse": {
           "headline": "Concerned Family",
           "copy": [
-            "Maybe you noticed them struggling with a jar, or getting up the stairs. Maybe you're worried about their forgetfulness. Give the gift of safety and independence, and yourself peace of mind."
+            "Maybe you noticed them struggling with a jar, or getting up the stairs. Maybe you're worried about their forgetfulness. Give them safety and independence, and yourself peace of mind."
           ]
         }
       },
@@ -47,7 +48,7 @@
         "copy": "My business is looking for an experienced Certified Aging-in-Place Specialist to work with",
         "href": "services.html#expert-consulting",
         "reverse": {
-          "headline": "ILS Collaboration",
+          "headline": "ILS COLLABORATION",
           "copy": [
             "By sharing our knowledge and expertise we're able to help care facilities and businesses provide their patients and customers more effective solutions. "
           ]
@@ -65,7 +66,7 @@
       },
       {
         "headline": "HERE FOR YOU",
-        "copy": "Whether you're starting to plan for the future, ready to schedule a consultation, or simply want to know more, we're always here",
+        "copy": "Whether you're starting to plan for the future, ready to schedule an In-Home Consultation, or simply want to know more, we're always here",
         "link": {
           "copy": "Contact us",
           "href": "contact.html"
