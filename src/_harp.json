@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "geo": [
+      {
+        "name": "geo.placename",
+        "content": "Independent Lifestyle Solutions, Cleveland, Ohio"
+      },
+      {
+        "name": "geo.region",
+        "content": "us-oh"
+      }
+    ]
+  }
+}

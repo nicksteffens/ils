@@ -1,6 +1,16 @@
 {
   "index": {
     "title": "Independent Lifestyle Solutions",
+    "meta": [
+      {
+        "name": "description",
+        "content": "As Ohio's most trusted Aging-in-Place Remodeling experts it's our job to help ensure your future independence in the home of your choosing, through retirement and beyond. Whether you know exactly what you're looking for or feel like you don't know where to start, Independent Lifestyle Solutions is here to help."
+        },
+      {
+        "name": "keywords",
+        "content": "aging in place remodeling, aging population , aging-in-place , basic accessibility , bathroom remodeling , home remodeling for seniors, CAPS certified remodelers, certified aging in place specialist , grab bar installation , independent lifestyle solutions , independent living , nursing home alternatives, quality of life , residential remodeling , roll under sinks , home remodeling for people with disabilities , CAPS certified contractor, swing clear doors , universal design , wheelchair ramp , zero threshold"
+      }
+    ],
     "intro": {
       "headline": "Lifestyles Redefined",
       "copy": [
@@ -77,6 +87,16 @@
 
   "services": {
     "title": "Independent Lifestyle Solutions : Services",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Solutions & Services - If you're currently facing challenges in your day-to-day life, looking for services and long-term supoort, or just planning for the future, Independent Lifestyle Solutions is here to help."
+        },
+      {
+        "name": "keywords",
+        "content": "accessible bathroom remodeling, acute care facilities, basic accessibility, CAPS certified remodeler, certified aging in place specialist, grab bar installation , home remodeling for people with disabilities, in-home services, kitchen remodeling, living independently, long term senior help, non slip bathroom floorin, nursing home alternative, organizational services, pre-made meal deliver, prevent falls, prevent home injury, quality of lif, roll in showers, roll under sinks, roll-under countertops, senior services, single level layout, surgery recovery, swing clear doors, universal design, vertical stair lift, walk-in bathtubs, wheelchair accessible, wheelchair ramp, zero threshold "
+      }
+    ],
     "page": "services",
     "intro": {
       "headline": "Solutions & Services",
@@ -216,6 +236,16 @@
 
   "faqs": {
     "title": "ILS FAQs",
+    "meta": [
+      {
+        "name": "description",
+        "content": "FAQ - We understand this can be a challenging process, so we've compiled a list of the most frequently asked questions to help clients"
+      },
+      {
+        "name": "keywords",
+        "content": "AARP, aging population, aging-in-place, basic accessibility, CAP, certified aging in place specialist, contractor, in-home services, NAHB, National Association of Home Builder, quality of life, home remodeling for senior, senior living, universal design "
+      }
+    ],
     "questions": [
       {
         "headline": "What is CAPS?",
@@ -254,6 +284,16 @@
 
   "about": {
     "title": "ILS About",
+    "meta": [
+      {
+        "name": "description",
+        "content": "About Us - Trust and dependability are two of our highest priorities. We encourage you to get to know our specialized team of expert contractors and medical professionals."
+        },
+      {
+        "name": "keywords",
+        "content": "50+ population, about CAP, aging in place remodelin, basic accessibility, certified aging in place specialist, elderly caregiving needs, CAPS certified remodeler, roll under sinks, senior caregiving, senior living, senior quality of life, swing clear doors, universal design, wheelchair ramp, zero threshold "
+      }
+    ],
     "page": "about",
     "intro": {
       "headline": "About US",
@@ -293,6 +333,16 @@
 
   "contact": {
     "title": "Independent Lifestyle Solutions : Contact",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Contact Us - Whether you’re starting to plan for the future, ready to schedule a consultation, or simply want to know more, we’re always here."
+        },
+      {
+        "name": "keywords",
+        "content": "aging in place remodeler, aging-in-place , basic accessibility , CAPS certified contractor, certified aging in place specialist , contact independent lifestyle solutions , residential remodeling , schedule an appointment , swing clear doors , universal design , wheelchair ramp , zero threshold"
+      }
+    ],
     "page": "contact",
     "intro": {
       "headline": "Independent Lifestyle Solutions ",
@@ -321,6 +371,16 @@
   },
   "helpful-links": {
     "title": "Independent Lifestyle Solutions : Helpful Links",
+    "meta": [
+      {
+        "name": "description",
+        "content": "Independent Lifestyle Solutions Helpful Links - Resources, Benefits and articles for seniors, caregivers, medical professionals and more!               "
+      },
+      {
+        "name": "keywords",
+        "content": "AARP, administration on aging, aging population, aging-in-place, basic accessibility, CAP, caregiving resources, certified aging in place specialist, Eldercare, elderly caregiving needs, Health and human services, independent lifestyle solutions, longterm care calculator, national council on aging, National Famiy Caregiver Support Progra, senior care"
+      }
+    ],
     "page": "helpful",
     "intro": {
       "headline": "Helpful Links",

@@ -4,12 +4,18 @@ html(lang="en")
     //- meta
     meta(charset="utf-8")
     meta(name="viewport" content="width=device-width, initial-scale=1")
+    each entry in meta
+      meta(name=entry.name content=entry.content)
 
+    each entry in geo
+      meta(name=entry.name content=entry.content)
+
+    
     //- title
     title= title
 
     //- stylesheets
-    link(re;="stylesheet" href="stylesheets/normalize.css")
+    link(rel="stylesheet" href="stylesheets/normalize.css")
     link(rel="stylesheet" href="stylesheets/bootstrap.min.css")
     link(rel="stylesheet" href="stylesheets/main.css")
 
