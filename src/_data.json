@@ -106,7 +106,7 @@
         "reverse": {
           "headline": "<span style=\"font-size:17px;\">Long-Term Services</span>",
           "copy": [
-            "Maintaining your independence requires lasting solutions and consistent support. Understanding your specific needs allows you to continue living the life you love. "
+            "Maintaining your independence requires lasting solutions and consistent support. Understanding your specific needs allows you to continue living the life you love."
           ]
         }
       },
@@ -118,7 +118,7 @@
         "reverse": {
           "headline": "Future Planning",
           "copy": [
-            "It may seem overwhelming, confusing, and uncertain at times but planning ahead means not having to sacrifice later."
+            "It may seem overwhelming, confusing, and stressful at times but planning ahead means not having to sacrifice later."
           ]
         }
       },
@@ -141,7 +141,7 @@
         "tabgroup": "immediate-needs",
         "copy": [
           "From slight hearing loss to an inability to get around your home, we can help you get back to the independent lifestyle you love.",
-          "Are you able to safely and easily use the front and back entrances to your home? Can you get upstairs to the second floor? Or down to the basement? Are your doors wide enough for a wheelchair? Accessibility is critical to living independently. We provide… ",
+          "Are you able to use the front and back entrances to your home safely and easily? Can you get upstairs to the second floor? Or down to the basement? Are your doors wide enough for a wheelchair or a walker? Accessibility is critical to living independently. We provide…",
           "<ul><li>Wheelchair ramps</li><li>Vertical platform + residential stair lifts</li><li>Automatic door openers</li><li>Thermostat control systems</li><li>Single-level layouts</li><li>Home security systems</li><li>Keyless entry locks</li><li>Wireless phone systems</li></ul>"
         ]
       },
@@ -149,7 +149,7 @@
         "title":"Bathrooms",
         "tabgroup": "immediate-needs",
         "copy": [
-          "Bathrooms are the number one room in your house where accidents and falls are likely to occur. Many people have trouble even getting in and out of the shower. Protect yourself and prevent injury with… ",
+          "The bathroom is the number one room in your house where accidents and falls are most likely to occur. Many people have trouble even getting in and out of the shower. Protect yourself and prevent injury with…",
 
           "<ul><li>Custom bathroom remodeling</li><li>Roll-in showers + walk-in bathtubs</li><li>Grab bars + other support devices</li><li>Water temperature regulators</li><li>Non-slip flooring</li><li>Roll-under sinks</li><li>Single lever faucets</li><li>ADA compliant toilets</li></ul>"
         ]
@@ -178,7 +178,7 @@
         "tabgroup": "long-term-services",
         "copy": [
           "Have you checked your smoke alarms this month? Do your front steps get dangerously icy in the winter? Is it worth the risk of a fall to clean your own gutters? And wouldn't it be great if you didn't have to go to the grocery store? ",
-          "Scheduled on a monthly, bi-monthly, or as needed basis, our long-term services help reduce some of the day-to-day burdens and homeowner hassles that come with living independently. Let us take care of it, so you don't have to. ",
+          "Scheduled on a monthly, bi-monthly, or as-needed basis, our long-term services help reduce some of the day-to-day burdens and homeowner hassles that come with living independently. Let us take care of it, so you don’t have to.",
           "<strong>Concierge Services:</strong><br /><ul><li>Pre-made meal delivery</li><li>Grocery + pharmacy delivery</li><li>Dry cleaning drop off + pick up</li><li>Organizational Services</li><li>Lawn care + snow removal</li><li>Gutter cleaning</li></ul>",
 
           "<strong>Scheduled Maintenance:</strong><br />Have one of our experts conduct our comprehensive ILS Home Check-Up, complete with full safety inspection, while providing essential routine maintenance.  ",
@@ -205,9 +205,10 @@
         "hidden": true,
         "tabgroup": "expert-consulting",
         "copy": [
-          "The Independent Lifestyle Solutions team consists of expert contractors, remodelers, and seasoned medical professionals who specialize in geriatric medicine and long-term healthcare. It's with our combined backgrounds that we're able to understand the complexities and struggles specific to the aging population and those with disabilities. ",
-          "From strategic partnerships to individual projects, we consult with outside construction, architectural, and building development companies by providing insight and expertise on the Aging-in-Place community. With a better understanding of the Aging-in-Place consumer businesses can more closely align their products and services with customer needs. ",
-          "We collaborate with medical professionals, acute care facilities, and nursing homes to ensure continuity of care and smoothly transition patients back into their homes. A partnership with ILS provides a comprehensive adjunct to the overall treatment plan, ensuring increased patient and family satisfaction, and less likelihood of relapse or hospital readmission. Our goal is to help facilitate patient independence, safety, and most importantly, a better quality of life. "
+          "Due to the rapid growth of the aging population, the National Association of Home Builders (NAHB) Remodelers Council recognized the need for more professionals to understand the specific needs of the 50+ population. The CAPS designation was created to identify those trained and certified in helping seniors and older adults live in their homes safely as they age. ",
+          "The Independent Lifestyle Solutions team consists of CAPS certified expert contractors, remodelers, and seasoned medical professionals who specialize in geriatric medicine and long-term health care. It’s with our combined backgrounds and education that we’re able to understand the complexities and struggles specific to the aging population and those with disabilities. ",
+          "From strategic partnerships to individual projects, we consult with outside construction, architectural, and building development companies by providing insight and expertise on the Aging-in-Place community. With a greater awareness of the Aging-in-Place consumer, businesses can more closely align their products and services with customer needs. ",
+          "We collaborate with medical professionals, acute care facilities, and nursing homes to ensure continuity of care and the smooth transition of patients back into their homes. A partnership with ILS provides a comprehensive adjunct to the overall treatment plan, ensuring increased patient and family satisfaction, and less likelihood of relapse or hospital readmission. Our goal is to help facilitate patient independence, safety, and most importantly, a better quality of life. "
         ]
       }
     ]
